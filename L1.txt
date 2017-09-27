@@ -1,0 +1,4 @@
+softmax
+	takes scores(logits) and turns them into probabilites
+	exponential example
+	
